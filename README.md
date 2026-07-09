@@ -1,6 +1,8 @@
-# Drive Assist
+🚗 DriveAssist AI
 
-A new Flutter project.
+DriveAssist AI is a Flutter-based Advanced Driver Assistance System (ADAS) and Dashcam application designed to enhance driving safety through real-time AI-assisted monitoring, GPS tracking, and intelligent driving analytics.
+
+The application combines a modern mobile interface with camera processing, driving assistance features, and trip analytics to provide drivers with a safer and smarter driving experience.
 
 ## Getting Started
 
